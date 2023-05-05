@@ -15,6 +15,5 @@ public class Employee {
     private int age;
     private double salary;
     private Position position;
-   // private int exp;
 
 }
